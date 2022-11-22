@@ -11,7 +11,7 @@ Main project questions (or hypotheses if appropriate)
   
 High Level Project Workflow
 1) Generate an anger classification dataset using NLTK - store in X folder... 
-2) Train classifier on Gutenberg text 
+2) Train emotion classifier on text dataset extracted from Gutenberg books (2000 book corpus) 
 3) Save model to folder 
 4) Extract tweets using Twint - dataset will have two purposes: inference for classifier - engagement ML workflow  
 5) Clean dataset (english only tweets) - generate features from Twint output 
