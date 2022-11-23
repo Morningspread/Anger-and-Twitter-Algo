@@ -1,4 +1,4 @@
-# Angry Tweeter
+##Angry Tweeter
 Name of Project: Anger Classification Project...
 Purpose of Project: To train an emotion classifier to identify different levels of anger. There will be 4 to 6 levels of anger. 
 Data sources for training stage: "Gutenberg" - a corpus of 2000 books we extracted from project Gutenberg
@@ -9,7 +9,7 @@ Main project questions (or hypotheses if appropriate)
 1b) More specifically? What is the relationship between engagement metrics and anger while controlling for other variables... 
   - 
   
-High Level Project Workflow
+#High Level Project Workflow
 1) Generate an anger classification dataset using NLTK - store in X folder... 
 2) Train emotion classifier on text dataset extracted from Gutenberg books (2000 book corpus) 
 3) Save model to folder 
