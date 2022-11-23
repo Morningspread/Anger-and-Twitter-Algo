@@ -1,4 +1,4 @@
-# #Angry Tweeter
+# #AngryTweeters
 ## Name of Project: Anger Classification Project...
 ## Purpose of Project: To train an emotion classifier to identify different levels of anger. There will be 4 to 6 levels of anger. 
 ## Data sources for training stage: "Gutenberg" - a corpus of 2000 books we extracted from project Gutenberg
